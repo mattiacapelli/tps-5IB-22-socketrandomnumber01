@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2d8c979-bd9d-4950-932e-ca4acafacb0c": {
+      "ProjectGuid": "a2d8c979-bd9d-4950-932e-ca4acafacb0c",
+      "DisplayName": "SocketServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

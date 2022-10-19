@@ -1,0 +1,17 @@
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.exe
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.deps.json
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.runtimeconfig.json
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.dll
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\bin\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.AssemblyReference.cache
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.Form1.resources
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.GenerateResource.cache
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfoInputs.cache
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfo.cs
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.dll
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\matti\Documents\GitHub\tps-5IB-22-socketrandomnumber01\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.genruntimeconfig.cache
